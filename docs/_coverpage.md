@@ -1,4 +1,4 @@
-![coverpageico](/home/snow/docsify_hub/futureflight/assets/coverpageico.jpg)
+![coverpageico](https://github.com/SSSnow/futureflight/blob/master/assets/coverpageico.jpg)
 
 # 未来飞行器
 
